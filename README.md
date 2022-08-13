@@ -1,6 +1,5 @@
 # GameOfLife
 
-SIMRAN MOOLCHANDANEY
 Program: Conway's Game of Life
 
 Conway's Game of Life is an early example of a cellular automaton which can be easily simulated on a computer. A cellular automaton consists of a large number of cells, each operating according to some simple local rules. Given a large enough number of cells and an interesting initial configuration, non-trivial emergent behavior can result.
