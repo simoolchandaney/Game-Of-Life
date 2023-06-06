@@ -24,8 +24,8 @@ All data files will definitely have a "p" as the last line; and that all scene f
 
 Example usage:
 
-  playlife              -->  Game of Life in interactive mode
-  playlife glider.txt   -->  Game of Life in batch mode, using that scene
+  - playlife              -->  Game of Life in interactive mode
+  - playlife glider.txt   -->  Game of Life in batch mode, using that scene
 
 5 scenes that demonstrate a wide variety of complex automata behavior within Life:
 
